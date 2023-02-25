@@ -1,0 +1,9 @@
+S.no: 1
+First name: srinu
+Last name: sri
+Address: vizag
+City: srikakulam
+State: andhra
+Zip: 532484
+Phone number: 6790654321
+Email address: srinu@gmail.com
